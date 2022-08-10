@@ -1,0 +1,111 @@
+almadkhal11@almadkhal11:~/Desktop$ history
+    1  ls
+    2  w
+    3  sudo apt update
+    4  snap version
+    5  sudo snap install netbeans --classic
+    6  java --version
+    7  java --version-jdk
+    8  sudo apt install openjdk-8-jdk
+    9  history
+   10  history -ls
+   11  root
+   12  su root
+   13  root
+   14  exit
+   15  cu
+   16  su
+   17  su root
+   18  history -ls
+   19  ls
+   20  cd..
+   21  cd.
+   22  ls
+   23  pwd
+   24  mkdir thirdlesson
+   25  ls
+   26  pwd
+   27  touch ihab.ccs
+   28  pwd
+   29  ls
+   30  cd thirdlesson
+   31  ls
+   32  javac ihab.java
+   33  clear
+   34  ls
+   35  javac ihab.java
+   36  java ihab
+   37  javac ihab.java
+   38  java ihab
+   39  javac ihab.java
+   40  java ihab
+   41  javac ihab.java
+   42  java ihab
+   43  javac ihab.java
+   44  java ihab
+   45  history
+   46  cd..
+   47  cd
+   48  pwd
+   49  cd..
+   50  cd
+   51  pwd
+   52  mkkdir ihab
+   53  ls
+   54  cd desktop
+   55  mkdir jj
+   56  ls
+   57  cd jj
+   58  touch ihab2.java
+   59  cd
+   60  ls
+   61  cd desktop
+   62  pwd
+   63  ls
+   64  cd Desktop
+   65  ls
+   66  cd thirdlesson
+   67  ls
+   68  javac ihab.java
+   69  java ihab
+   70  clear
+   71  pwd
+   72  touch ex2.java
+   73  javac ex.java
+   74  ls
+   75  javac ex2.java
+   76  java ex2
+   77  pwd
+   78  ls
+   79  cd thirdlesson
+   80  javac ex2.java
+   81  java ex2
+   82  javac ex2.java
+   83  ls
+   84  cd desktop
+   85  cd Desktop
+   86  javac ex2.java
+   87  ls
+   88  cd thirdlesson
+   89  javac ex2.java
+   90  java ex2
+   91  javac ex2.java
+   92  java ex2
+   93  javac ex2.java
+   94  javac ex2.java
+   95  java ex2
+   96  javac ex2.java
+   97  java ex2
+   98  javac ex2.java
+   99  java ex2
+  100  javac ex2.java
+  101  java ex2
+  102  # apt-get install git
+  103* 
+  104  # apt-get install git
+  105  sudo apt update
+  106  sudo apt instal git
+  107  sudo apt install git
+  108  git --version
+  109  history
+
