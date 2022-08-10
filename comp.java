@@ -19,6 +19,7 @@ import java.io.*;
 				// skipping when count==7 or count==15
 				continue;
 			}
+			//rtfyhedtyer
 			// Printing values after continue statement
 			System.out.print(count + " ");
 
